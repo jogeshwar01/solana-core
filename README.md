@@ -1,6 +1,8 @@
 # Solana Core
 
-#### react-wallet
+#### react-wallet 
+
+https://github.com/anza-xyz/wallet-adapter
 
 ![image](https://github.com/jogeshwar01/solana-core/assets/85165953/f309ad6b-7d3a-476f-9a7e-d42898ab77ca)
 
